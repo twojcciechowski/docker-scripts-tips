@@ -25,7 +25,7 @@ you cannot operate on `/project/*` part of the project, and you need
 to pass complicated arguments and paths in docker build command. There is 
 other way.
 
-##Solution
+## Solution
 
 To pass files to docker you can use tarball. In that case you need to build 
 a tarball with all files which you want to pass as context to docker. Below 
