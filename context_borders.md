@@ -1,4 +1,4 @@
-# Context border
+# Pass tarball as context
 
 ## Problem
 While building an image docker is packaging directory pointed as context. 
